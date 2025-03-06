@@ -5,8 +5,7 @@ title: nishanth resume
 
 <div align="center">
 
-<h2>Nishanth Ramanathan</h2>  
-<h3>🚀 Data Science | Machine Learning | Full-Stack Development</h3>  
+  <h3>🚀 Data Science | Machine Learning | Full-Stack Development</h3>  
 
 <p>  
 📞 <strong>+91 8903284562</strong> &nbsp; &nbsp; | &nbsp; &nbsp;  
