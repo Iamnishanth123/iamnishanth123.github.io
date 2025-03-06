@@ -2,6 +2,14 @@
 layout: default
 title: Home
 ---
+<div align="center">
+    📞 **Phone:** +91 8903284562  
+    📧 **Email:** [nishanthramanathan2003@gmail.com](mailto:nishanthramanathan2003@gmail.com)  
+    📍 Coimbatore   
+    🔗 **LinkedIn:** [nishanth-ramanathan](https://www.linkedin.com/in/nishanth-ramanathan)  
+    🔗 **GitHub:** [Iamnishanth123](https://github.com/Iamnishanth123)  
+</div>
+ 
 
 ## 📝 About Me  
 Innovative **Data Science student** with expertise in **data engineering, software development, statistics, and machine learning**.  
@@ -9,6 +17,8 @@ Innovative **Data Science student** with expertise in **data engineering, softwa
 - Experienced in **building efficient algorithms, developing end-to-end applications, and applying ML/DL techniques**.  
 - Passionate about **problem-solving, collaboration, and impactful AI/ML projects**.  
 - Seeking opportunities to **apply my skills in challenging internships** and contribute to innovative teams.  
+
+---
 
 ---
 
@@ -86,14 +96,3 @@ Innovative **Data Science student** with expertise in **data engineering, softwa
 🏆 **Certificate of Excellence** - Quality Circle Competition _(ICSQCC, New Delhi 2016)_  
 
 ---
-
-## 📬 Contact  
-
-📧 **Email:** [nishanthramanathan2003@gmail.com](mailto:nishanthramanathan2003@gmail.com)  
-📍 **Location:** Coimbatore  
-
-🔗 **GitHub:** [Iamnishanth123](https://github.com/Iamnishanth123)  
-🔗 **LinkedIn:** [nishanth-ramanathan](https://www.linkedin.com/in/nishanth-ramanathan)  
-
----
-
