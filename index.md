@@ -8,8 +8,11 @@ title: Home
 ## Nishanth Ramanathan  
 ### 🚀 Data Science | Machine Learning | Full-Stack Development  
 
-📞 +91 8903284562 | 📧 [Email](mailto:nishanthramanathan2003@gmail.com) | 📍 Coimbatore  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishanth-ramanathan) | 🔗 [GitHub](https://github.com/Iamnishanth123)  
+📞 **+91 8903284562**  
+📧 [Email](mailto:nishanthramanathan2003@gmail.com)  
+📍 **Coimbatore**  
+🔗 [LinkedIn](https://www.linkedin.com/in/nishanth-ramanathan)  
+🔗 [GitHub](https://github.com/Iamnishanth123)  
 
 </div>  
 
@@ -87,4 +90,3 @@ Machine Learning & Deep Learning | Data Structures & Algorithms | Databases | Bi
 🏆 **Certificate of Excellence** - Quality Circle Competition _(ICSQCC, New Delhi 2016)_  
 
 ---
-
