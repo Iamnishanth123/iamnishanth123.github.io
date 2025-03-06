@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Home
+title: nishanth resume
 ---
 
 <div align="center">
 
-## Nishanth Ramanathan  
-### 🚀 Data Science | Machine Learning | Full-Stack Development  
+<h2>Nishanth Ramanathan</h2>  
+<h3>🚀 Data Science | Machine Learning | Full-Stack Development</h3>  
 
-📞 **+91 8903284562**  
-📧 [Email](mailto:nishanthramanathan2003@gmail.com)  
-📍 **Coimbatore**  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishanth-ramanathan)  
-🔗 [GitHub](https://github.com/Iamnishanth123)  
+<p>📞 <strong>+91 8903284562</strong></p>  
+<p>📧 <a href="mailto:nishanthramanathan2003@gmail.com">nishanthramanathan2003@gmail.com</a></p>  
+<p>📍 <strong>Coimbatore</strong></p>  
+<p>🔗 <a href="https://www.linkedin.com/in/nishanth-ramanathan">LinkedIn</a> | 🔗 <a href="https://github.com/Iamnishanth123">GitHub</a></p>  
 
-</div>  
+</div>
+
 
 ---
 
