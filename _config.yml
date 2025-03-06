@@ -1,5 +1,5 @@
 title: Nishanth Ramanathan
-logo: /assets/img/profile.jpg  # Ensure this image exists
+logo: logo: assets/img/profile.jpg      # Ensure this image exists
 description: "Data Science | Machine Learning | Full-Stack Development"
 show_downloads: true
 theme: jekyll-theme-minimal
