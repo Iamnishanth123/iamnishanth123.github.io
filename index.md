@@ -3,12 +3,7 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I'm Nishanth Ramanathan  
 ### 🚀 Data Science | Machine Learning | Full-Stack Development  
-
-<div align="center">
-    <img src="{{ site.logo | relative_url }}" width="150" style="border-radius: 50%; border: 3px solid #0078D4;"/>
-</div>
 
 ---
 
