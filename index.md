@@ -2,36 +2,35 @@
 layout: default
 title: Home
 ---
-<div align="center">
-    📞 **Phone:** +91 8903284562  
-    📧 **Email:** [nishanthramanathan2003@gmail.com](mailto:nishanthramanathan2003@gmail.com)  
-    📍 Coimbatore   
-    🔗 **LinkedIn:** [nishanth-ramanathan](https://www.linkedin.com/in/nishanth-ramanathan)  
-    🔗 **GitHub:** [Iamnishanth123](https://github.com/Iamnishanth123)  
-</div>
- 
 
-## 📝 About Me  
-Innovative **Data Science student** with expertise in **data engineering, software development, statistics, and machine learning**.  
-- Proficient in **Python, Java, SQL, R** and database management (**MongoDB, Hive**).  
-- Experienced in **building efficient algorithms, developing end-to-end applications, and applying ML/DL techniques**.  
-- Passionate about **problem-solving, collaboration, and impactful AI/ML projects**.  
-- Seeking opportunities to **apply my skills in challenging internships** and contribute to innovative teams.  
+<div align="center">
+
+## Nishanth Ramanathan  
+### 🚀 Data Science | Machine Learning | Full-Stack Development  
+
+📞 +91 8903284562 | 📧 [Email](mailto:nishanthramanathan2003@gmail.com) | 📍 Coimbatore  
+🔗 [LinkedIn](https://www.linkedin.com/in/nishanth-ramanathan) | 🔗 [GitHub](https://github.com/Iamnishanth123)  
+
+</div>  
 
 ---
+
+## 📝 About Me  
+Passionate **Data Science student** with expertise in **data engineering, machine learning, and full-stack development**.  
+- Skilled in **Python, Java, SQL, R** and database management (**MongoDB, Hive**).  
+- Experienced in **algorithm development, model training, and web application deployment**.  
+- Strong problem-solving, communication, and collaboration skills.  
+- Actively seeking **internships and opportunities** in **AI/ML and software development**.  
 
 ---
 
 ## 🛠 Skills  
 
-### 🖥️ **Programming Languages**  
-- Python 🐍  
-- Java ☕  
-- SQL 🗄️  
-- R 📊  
+### **Programming Languages**  
+Python 🐍 | Java ☕ | SQL 🗄️ | R 📊  
 
-### ⚙️ **Technologies & Tools**  
-- **Machine Learning:** TensorFlow, SciPy, GAN, Hugging Face  
+### **Technologies & Tools**  
+- **Machine Learning & AI:** TensorFlow, SciPy, GAN, Hugging Face  
 - **Cloud & DevOps:** Kubernetes, Docker  
 - **Big Data:** Hive, MongoDB  
 - **Web Development:** Flask, ReactJS, D3.js  
@@ -42,51 +41,43 @@ Innovative **Data Science student** with expertise in **data engineering, softwa
 ## 💼 Work Experience  
 
 ### **Data Science Intern**  
-**Chakra Biztech Solutions Private Limited, Chennai** _(June 2024 - September 2024)_  
-✅ Developed and deployed a **Solar Power Generation Monitoring Dashboard** using XAMPP.  
-✅ Created a **real-time digital dashboard** for Network Operations Centre (NOC), improving team engagement by **40%**.  
-✅ Enhanced **data visualization and monitoring efficiency** for solar power metrics.  
+**Chakra Biztech Solutions Private Limited, Chennai** _(June 2024 - Sept 2024)_  
+- Developed a **Solar Power Generation Monitoring Dashboard** using XAMPP.  
+- Created a **real-time digital dashboard** for Network Operations Centre (NOC), improving engagement by **40%**.  
+- Enhanced **data visualization and monitoring efficiency** for solar power metrics.  
 
-**🛠 Tech Stack:** JavaScript, D3.js, HTML, CSS, MySQL  
+**Tech Stack:** JavaScript, D3.js, HTML, CSS, MySQL  
 
 ---
 
 ## 🎓 Education  
 
-### **Amrita Vishwa Vidyapeetham University, Coimbatore** _(2021 - 2026, Pursuing)_  
-📚 **Integrated Master of Science in Data Science**  
-📊 **CGPA:** _7.91/10_ (as of 7th semester)  
+### **Amrita Vishwa Vidyapeetham University, Coimbatore** _(2021 - 2026)_  
+📚 **Integrated M.Sc. in Data Science** | **CGPA:** _7.91/10_ (as of 7th semester)  
 
-📖 **Key Coursework:**  
-- Machine Learning & Deep Learning  
-- Data Structures & Algorithms  
-- Reinforcement Learning & Data Mining  
-- Databases & Operating Systems  
-- Big Data Analytics  
+**Key Coursework:**  
+Machine Learning & Deep Learning | Data Structures & Algorithms | Databases | Big Data Analytics  
 
 ### **The TVS School, Madurai** _(2019 - 2021)_  
-🎓 **Higher Secondary Education** (_90.3%_)  
-
-**Core Subjects:** Physics, Chemistry, Mathematics, Computer Science  
+🎓 **Higher Secondary Education** | **Percentage:** _90.3%_  
+**Subjects:** Physics | Chemistry | Mathematics | Computer Science  
 
 ---
 
-## 🔬 Project Work  
+## 🔬 Projects  
 
-### 🛠 **Meta Data Tool (Ongoing)**  
-- Developing a **web-based ML tool** that enables users to upload data, train models, and view results in one click.  
-- Improved model accuracy, with some models achieving **85%+ accuracy**.  
-🔧 **Tech Stack:** Python, SciPy, Regression, Node.js, HTML, CSS  
+### **Meta Data Tool (Ongoing)**  
+- Built a **web-based ML tool** for data uploads, model training, and result visualization.  
+- Improved model accuracy, achieving **85%+ accuracy**.  
+**Tech Stack:** Python, SciPy, Regression, Node.js, HTML, CSS  
 
-### 📧 **Email Automation System (2024)**  
-- Built a **GUI-based email sender** with Gmail integration using Java.  
-- Implemented **SMTP with TLS encryption** for secure delivery.  
-🔧 **Tech Stack:** Java Swing, Jakarta Mail API, NetBeans  
+### **Email Automation System (2024)**  
+- Developed a **GUI-based email sender** with secure **SMTP & TLS encryption**.  
+**Tech Stack:** Java Swing, Jakarta Mail API, NetBeans  
 
-### 🎥 **Video Streaming Application (2022)**  
-- Designed a **video streaming platform** with user & contributor logins.  
-- Integrated **MySQL backend** for managing content.  
-🔧 **Tech Stack:** HTML, CSS, MySQL, Full Stack  
+### **Video Streaming Platform (2022)**  
+- Designed a **user-contributor streaming service** with **MySQL backend integration**.  
+**Tech Stack:** HTML, CSS, MySQL  
 
 ---
 
@@ -96,3 +87,4 @@ Innovative **Data Science student** with expertise in **data engineering, softwa
 🏆 **Certificate of Excellence** - Quality Circle Competition _(ICSQCC, New Delhi 2016)_  
 
 ---
+
