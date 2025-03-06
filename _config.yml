@@ -1,5 +1,10 @@
-title: nishanth
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
+title: Nishanth Ramanathan
+logo: /assets/img/profile.jpg  # Ensure this image exists
+description: "Data Science | Machine Learning | Full-Stack Development"
+show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
