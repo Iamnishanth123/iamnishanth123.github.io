@@ -1,7 +1,3 @@
-Here's a structured format with headings and subheadings for your GitHub.io webpage:
-
----
-
 # Nishanth Ramanathan
 
 ## About Me
