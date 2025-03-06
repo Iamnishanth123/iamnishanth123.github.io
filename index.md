@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-### 🚀 Data Science | Machine Learning | Full-Stack Development  
-
----
-
 ## 📝 About Me  
 Innovative **Data Science student** with expertise in **data engineering, software development, statistics, and machine learning**.  
 - Proficient in **Python, Java, SQL, R** and database management (**MongoDB, Hive**).  
