@@ -17,7 +17,6 @@ title: nishanth resume
 
 </div>
 
-
 ---
 
 ## 📝 About Me  
@@ -32,7 +31,7 @@ Passionate **Data Science student** with expertise in **data engineering, machin
 ## 🛠 Skills  
 
 ### **Programming Languages**  
-Python 🐍 | Java ☕ | SQL 🗄️ | R 📊  
+Python 🐍 | Java ☕ | SQL 🐄️ | R 📊  
 
 ### **Technologies & Tools**  
 - **Machine Learning & AI:** TensorFlow, SciPy, GAN, Hugging Face  
@@ -43,7 +42,7 @@ Python 🐍 | Java ☕ | SQL 🗄️ | R 📊
 
 ---
 
-## 💼 Work Experience  
+## 🏋️ Work Experience  
 
 ### **Data Science Intern**  
 **Chakra Biztech Solutions Private Limited, Chennai** _(June 2024 - Sept 2024)_  
@@ -71,17 +70,34 @@ Machine Learning & Deep Learning | Data Structures & Algorithms | Databases | Bi
 
 ## 🔬 Projects  
 
+### **Fish Detection & Classification Web App (2025)**  
+- Built a **Flask web app** for realtime image and video-based fish identification.
+- Trained on a **custom fish dataset** from CIFE, Mumbai with **data augmentation**.  
+- Integrated **optical flow algorithms** for **real-time fish tracking**.  
+
+**Tech Stack:** Flask, Python, PyTorch, OpenCV, Lucas-Kanade, Farneback, RLOF, Roboflow, LabelImg, Bootstrap, HTML, CSS  
+
+### **Malicious DoH Traffic Detection with Transformers (2024)**  
+- Built a **Transformer-based model** for **malicious DNS-over-HTTPS (DoH) traffic detection**.  
+- Achieved **98% accuracy** with **feature engineering, time-series analysis, and SHAP interpretability**.   
+- Deployed using **TensorFlow**, ensuring **real-time cybersecurity applications**.  
+
+**Tech Stack:** Python, TensorFlow, Keras, SHAP, Scikit-learn, NumPy, Pandas, Matplotlib, Cybersecurity Analytics  
+
 ### **Meta Data Tool (Ongoing)**  
-- Built a **web-based ML tool** for data uploads, model training, and result visualization.  
+- Built a **web-based ML tool** for **data uploads, model training, and result visualization**.  
 - Improved model accuracy, achieving **85%+ accuracy**.  
+
 **Tech Stack:** Python, SciPy, Regression, Node.js, HTML, CSS  
 
 ### **Email Automation System (2024)**  
 - Developed a **GUI-based email sender** with secure **SMTP & TLS encryption**.  
+
 **Tech Stack:** Java Swing, Jakarta Mail API, NetBeans  
 
 ### **Video Streaming Platform (2022)**  
 - Designed a **user-contributor streaming service** with **MySQL backend integration**.  
+
 **Tech Stack:** HTML, CSS, MySQL  
 
 ---
