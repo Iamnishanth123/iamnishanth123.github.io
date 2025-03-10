@@ -104,6 +104,7 @@ Machine Learning & Deep Learning | Data Structures & Algorithms | Databases | Bi
 
 ## 🏆 Awards & Certifications  
 
+🏆 **IBM Software Developer Certification** - Coursera _(In progress)_  
 🏅 **Machine Learning Certification** - Cognifyz Technologies _(March 2024)_  
 🏆 **Certificate of Excellence** - Quality Circle Competition _(ICSQCC, New Delhi 2016)_  
 
