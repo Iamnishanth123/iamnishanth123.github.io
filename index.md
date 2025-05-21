@@ -2,55 +2,48 @@
 
   <h3>🚀 Data Science | Machine Learning | Full-Stack Development</h3>  
 
-  <p>  
-  📞 <strong>+91 8903284562</strong> &nbsp; &nbsp; | &nbsp; &nbsp;  
-  📧 <a href="mailto:nishanthramanathan2003@gmail.com">nishanthramanathan2003@gmail.com</a> &nbsp; &nbsp; | &nbsp; &nbsp;  
-  📍 <strong>Coimbatore</strong> &nbsp; &nbsp; | &nbsp; &nbsp;  
-  🔗 <a href="https://www.linkedin.com/in/nishanth-ramanathan">LinkedIn</a> &nbsp; &nbsp; | &nbsp; &nbsp;  
-  🔗 <a href="https://github.com/Iamnishanth123">GitHub</a>  
-  </p>
+<p>  
+📞 <strong>+91 8903284562</strong> &nbsp; &nbsp; | &nbsp; &nbsp;  
+📧 <a href="mailto:nishanthramanathan2003@gmail.com">nishanthramanathan2003@gmail.com</a> &nbsp; &nbsp; | &nbsp; &nbsp;  
+📍 <strong>Coimbatore</strong> &nbsp; &nbsp; | &nbsp; &nbsp;  
+🔗 <a href="https://www.linkedin.com/in/nishanth-ramanathan">LinkedIn</a> &nbsp; &nbsp; | &nbsp; &nbsp;  
+🔗 <a href="https://github.com/Iamnishanth123">GitHub</a>  
+</p>
 
 </div>
 
 ---
 
 ## 📝 About Me  
-Innovative and results-driven **Data Science student** with hands-on experience in **AI, machine learning, and full-stack development**.  
-- Proficient in **Python, Java, SQL, R**, with strong command of **MongoDB, Hive, and vector databases**.  
-- Experienced in **LLM integration**, **model development**, and **web application deployment**.  
-- Strong collaborator with a problem-solving mindset and an eagerness to learn and contribute.  
-- Seeking impactful **internship or full-time roles** in **AI/ML, data engineering, and software development**.
+Passionate **Data Science student** with expertise in **data engineering, machine learning, and full-stack development**.  
+- Skilled in **Python, Java, SQL, R** and database management (**MongoDB, Hive**).  
+- Experienced in **algorithm development, model training, and web application deployment**.  
+- Strong problem-solving, communication, and collaboration skills.  
+- Actively seeking **internships and opportunities** in **AI/ML and software development**.  
 
 ---
 
 ## 🛠 Skills  
 
 ### **Programming Languages**  
-Python 🐍 | Java ☕ | SQL 🐄 | R 📊  
+Python 🐍 | Java ☕ | SQL 🐄️ | R 📊  
 
 ### **Technologies & Tools**  
-- **ML & AI:** TensorFlow, Hugging Face, Transformers, SHAP, GANs  
-- **Databases:** MongoDB, MySQL, Hive, Vector DBs  
-- **Web & App Dev:** FastAPI, Flask, Streamlit, ReactJS, D3.js  
+- **Machine Learning & AI:** TensorFlow, SciPy, GAN, Hugging Face  
 - **Cloud & DevOps:** Kubernetes, Docker  
-- **Others:** OpenCV, Computer Vision, Git  
+- **Big Data:** Hive, MongoDB  
+- **Web Development:** Flask, ReactJS, D3.js  
+- **Version Control:** Git & GitHub  
 
 ---
 
 ## 🏋️ Work Experience  
 
-### **Software Developer Intern**  
-**Jithwa Solutions - Landcheck, Chennai** _(Apr 2025 – May 2025)_  
-- Built AI chatbot with **multimodal LLMs** to process regional language PDFs.  
-- Developed **FastAPI REST APIs** and integrated **vector DBs** and **Gemini models** for **RAG-based querying**.  
-- Designed scalable text preprocessing and **OCR pipelines**.  
-
-**Tech Stack:** FastAPI, MongoDB, OCR, Vector DB, Gemini, LLMs  
-
 ### **Data Science Intern**  
-**Chakra Biztech Solutions, Chennai** _(June 2024 – Sept 2024)_  
-- Deployed a **solar generation dashboard** for NOC, enhancing productivity by 40%.  
-- Delivered real-time **data visualizations** and power metrics tracking.  
+**Chakra Biztech Solutions Private Limited, Chennai** _(June 2024 - Sept 2024)_  
+- Developed a **Solar Power Generation Monitoring Dashboard** using XAMPP.  
+- Created a **real-time digital dashboard** for Network Operations Centre (NOC), improving engagement by **40%**.  
+- Enhanced **data visualization and monitoring efficiency** for solar power metrics.  
 
 **Tech Stack:** JavaScript, D3.js, HTML, CSS, MySQL  
 
@@ -58,62 +51,56 @@ Python 🐍 | Java ☕ | SQL 🐄 | R 📊
 
 ## 🎓 Education  
 
-### **Amrita Vishwa Vidyapeetham University, Coimbatore** _(2021 – 2026)_  
-📚 **Integrated M.Sc. in Data Science** | **CGPA:** _7.92/10_  
-**Key Courses:** CV, Stats, RL, DS & Algo, ML, DL, OOP, Big Data, Mining  
+### **Amrita Vishwa Vidyapeetham University, Coimbatore** _(2021 - 2026)_  
+📚 **Integrated M.Sc. in Data Science** | **CGPA:** _7.91/10_ (as of 7th semester)  
 
-### **The TVS School, Madurai** _(2019 – 2021)_  
+**Key Coursework:**  
+Machine Learning & Deep Learning | Data Structures & Algorithms | Databases | Big Data Analytics  
+
+### **The TVS School, Madurai** _(2019 - 2021)_  
 🎓 **Higher Secondary Education** | **Percentage:** _90.3%_  
+**Subjects:** Physics | Chemistry | Mathematics | Computer Science  
 
 ---
 
 ## 🔬 Projects  
 
-### **GestureVoteSecure (Ongoing)**  
-- Developed a **Streamlit-based secure voting system** with face recognition and gesture-based voting.  
-- Achieved **95%+ face verification accuracy** and integrated **gesture recognition using MobileNetV2 & MediaPipe**.  
+### **Fish Detection & Classification Web App (2025)**  
+- Built a **Flask web app** for realtime image and video-based fish identification.
+- Trained on a **custom fish dataset** from CIFE, Mumbai with **data augmentation**.  
+- Integrated **optical flow algorithms** for **real-time fish tracking**.  
 
-**Tools:** Python, Streamlit, OpenCV, JSON, Render, MediaPipe  
+**Tech Stack:** Flask, Python, PyTorch, OpenCV, Lucas-Kanade, Farneback, RLOF, Roboflow, LabelImg, Bootstrap, HTML, CSS  
 
-### **Fish Detection and Classification Web App (2025)**  
-- YOLOv8-based **underwater detection** for 9 species; integrated optical flow tracking.  
-- Real-time Flask app with >90% accuracy.  
+### **Malicious DoH Traffic Detection with Transformers (2024)**  
+- Built a **Transformer-based model** for **malicious DNS-over-HTTPS (DoH) traffic detection**.  
+- Achieved **98% accuracy** with **feature engineering, time-series analysis, and SHAP interpretability**.   
+- Deployed using **TensorFlow**, ensuring **real-time cybersecurity applications**.  
 
-**Tools:** Flask, PyTorch, OpenCV, Roboflow, Bootstrap  
+**Tech Stack:** Python, TensorFlow, Keras, SHAP, Scikit-learn, NumPy, Pandas, Matplotlib, Cybersecurity Analytics  
 
-### **Malicious DoH Detection with Transformers (2024)**  
-- Built Transformer-based detection model with **98% accuracy** and SHAP interpretability.  
-- Designed for **real-time cybersecurity analysis**.  
+### **Meta Data Tool (Ongoing)**  
+- Built a **web-based ML tool** for **data uploads, model training, and result visualization**.  
+- Improved model accuracy, achieving **85%+ accuracy**.  
 
-**Tools:** Python, TensorFlow, SHAP, Sklearn  
+**Tech Stack:** Python, SciPy, Regression, Node.js, HTML, CSS  
 
-### **InsightPulse**  
-- Web tool for uploading CSVs, running **ANOVA**, and training ML models with auto-preprocessing.  
-- Achieved **85%+ precision** across various tasks.  
+### **Email Automation System (2024)**  
+- Developed a **GUI-based email sender** with secure **SMTP & TLS encryption**.  
 
-**Tools:** Python, Flask, SciPy, JavaScript, Sklearn  
+**Tech Stack:** Java Swing, Jakarta Mail API, NetBeans  
 
-### **Email Automation System**  
-- Java-based GUI for email sending with **TLS security**.  
-- Integrated with **job portal** functionality.  
+### **Video Streaming Platform (2022)**  
+- Designed a **user-contributor streaming service** with **MySQL backend integration**.  
 
-**Tools:** Java Swing, Jakarta Mail API  
+**Tech Stack:** HTML, CSS, MySQL  
 
 ---
 
 ## 🏆 Awards & Certifications  
 
-🏆 **IBM Software Developer Certificate** _(Ongoing)_  
-🥇 **Top 500 out of 50,000** – IIT Kharagpur Data Science Hackathon  
-🏅 **Hackerrank 5-Star Gold** – Python Programming  
-🥉 **Machine Learning Certificate** – Cognifyz Technologies  
-🏆 **Certificate of Excellence** – ICSQCC, New Delhi (2016)  
-
----
-
-## 📄 Publication  
-
-**“Real-Time Fish Detection and Tracking using Ensemble-based Deep Learning Approach”**  
-- Authors: Nishanth R, Sai Sudhindra Sasank V, Sriya Simran Dash, Vinod Kumar Yadav, Senthil Kumar Thangavel, K. Somasundaram
+🏆 **IBM Software Developer Certification** - Coursera _(In progress)_  
+🏅 **Machine Learning Certification** - Cognifyz Technologies _(March 2024)_  
+🏆 **Certificate of Excellence** - Quality Circle Competition _(ICSQCC, New Delhi 2016)_  
 
 ---
