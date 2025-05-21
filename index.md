@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
   <h3>🚀 Data Science | Machine Learning | Full-Stack Development</h3>  
@@ -15,11 +16,11 @@
 ---
 
 ## 📝 About Me  
-Passionate **Data Science student** with expertise in **data engineering, machine learning, and full-stack development**.  
-- Skilled in **Python, Java, SQL, R** and database management (**MongoDB, Hive**).  
-- Experienced in **algorithm development, model training, and web application deployment**.  
-- Strong problem-solving, communication, and collaboration skills.  
-- Actively seeking **internships and opportunities** in **AI/ML and software development**.  
+Innovative and results-oriented **Data Science student** with experience in **AI/ML, full-stack development, and software engineering**.  
+- Proficient in **Python, Java, SQL, R**, and modern database systems including **MongoDB, Hive, and Vector DBs**.  
+- Experienced in **LLMs**, **NLP**, **RAG pipelines**, and **deployment of scalable REST APIs**.  
+- Adept at building **end-to-end ML pipelines**, solving real-world problems, and collaborating in fast-paced teams.  
+- Actively seeking **AI/ML and software development internships** to apply and expand my expertise.
 
 ---
 
@@ -29,15 +30,23 @@ Passionate **Data Science student** with expertise in **data engineering, machin
 Python 🐍 | Java ☕ | SQL 🐄️ | R 📊  
 
 ### **Technologies & Tools**  
-- **Machine Learning & AI:** TensorFlow, SciPy, GAN, Hugging Face  
+- **Machine Learning & AI:** TensorFlow, SciPy, GAN, Hugging Face, Transformers, SHAP  
 - **Cloud & DevOps:** Kubernetes, Docker  
-- **Big Data:** Hive, MongoDB  
-- **Web Development:** Flask, ReactJS, D3.js  
+- **Big Data:** Hive, MongoDB, Vector Databases  
+- **Web Development:** Flask, ReactJS, D3.js, FastAPI, Streamlit  
 - **Version Control:** Git & GitHub  
 
 ---
 
 ## 🏋️ Work Experience  
+
+### **Software Developer Intern**  
+**Jithwa Solutions - Landcheck, Chennai** _(April 2025 - May 2025)_  
+- Built an **AI chatbot** with **multimodal LLMs** to process regional language PDFs.  
+- Developed **text pre-processing pipelines**, scalable **REST APIs with FastAPI**, and **vector DB integration**.  
+- Used **Gemini-alpha models** for **RAG-based querying** and document understanding.  
+
+**Tech Stack:** FastAPI, MongoDB, OCR, Gemini, RAG, Vector DBs  
 
 ### **Data Science Intern**  
 **Chakra Biztech Solutions Private Limited, Chennai** _(June 2024 - Sept 2024)_  
@@ -52,10 +61,10 @@ Python 🐍 | Java ☕ | SQL 🐄️ | R 📊
 ## 🎓 Education  
 
 ### **Amrita Vishwa Vidyapeetham University, Coimbatore** _(2021 - 2026)_  
-📚 **Integrated M.Sc. in Data Science** | **CGPA:** _7.91/10_ (as of 7th semester)  
+📚 **Integrated M.Sc. in Data Science** | **CGPA:** _7.92/10_ (as of 7th semester)  
 
 **Key Coursework:**  
-Machine Learning & Deep Learning | Data Structures & Algorithms | Databases | Big Data Analytics  
+Computer Vision | Statistics | Reinforcement Learning | Data Structures & Algorithms | Databases | ML | DL | Big Data  
 
 ### **The TVS School, Madurai** _(2019 - 2021)_  
 🎓 **Higher Secondary Education** | **Percentage:** _90.3%_  
@@ -65,8 +74,14 @@ Machine Learning & Deep Learning | Data Structures & Algorithms | Databases | Bi
 
 ## 🔬 Projects  
 
+### **GestureVoteSecure (Ongoing)**  
+- Developed a **Streamlit-based secure voting system** with **real-time face recognition** (95% accuracy).  
+- Enabled **gesture-based voting** using **MediaPipe** and **MobileNetV2** with timed voting logic.  
+
+**Tech Stack:** Python, Streamlit, OpenCV, facerecognition, MediaPipe, MobileNetV2, JSON  
+
 ### **Fish Detection & Classification Web App (2025)**  
-- Built a **Flask web app** for realtime image and video-based fish identification.
+- Built a **Flask web app** for realtime image and video-based fish identification.  
 - Trained on a **custom fish dataset** from CIFE, Mumbai with **data augmentation**.  
 - Integrated **optical flow algorithms** for **real-time fish tracking**.  
 
@@ -74,16 +89,16 @@ Machine Learning & Deep Learning | Data Structures & Algorithms | Databases | Bi
 
 ### **Malicious DoH Traffic Detection with Transformers (2024)**  
 - Built a **Transformer-based model** for **malicious DNS-over-HTTPS (DoH) traffic detection**.  
-- Achieved **98% accuracy** with **feature engineering, time-series analysis, and SHAP interpretability**.   
+- Achieved **98% accuracy** with **feature engineering, time-series analysis, and SHAP interpretability**.  
 - Deployed using **TensorFlow**, ensuring **real-time cybersecurity applications**.  
 
-**Tech Stack:** Python, TensorFlow, Keras, SHAP, Scikit-learn, NumPy, Pandas, Matplotlib, Cybersecurity Analytics  
+**Tech Stack:** Python, TensorFlow, Keras, SHAP, Scikit-learn, NumPy, Pandas, Matplotlib  
 
-### **Meta Data Tool (Ongoing)**  
-- Built a **web-based ML tool** for **data uploads, model training, and result visualization**.  
-- Improved model accuracy, achieving **85%+ accuracy**.  
+### **InsightPulse (Meta Data Tool)**  
+- Built a **web-based ML tool** for **data uploads, ANOVA, model training, and result visualization**.  
+- Automated preprocessing and **model selection**, reaching **85%+ accuracy**.  
 
-**Tech Stack:** Python, SciPy, Regression, Node.js, HTML, CSS  
+**Tech Stack:** Python, Flask, SciPy, Node.js, HTML, CSS, JavaScript  
 
 ### **Email Automation System (2024)**  
 - Developed a **GUI-based email sender** with secure **SMTP & TLS encryption**.  
@@ -100,7 +115,17 @@ Machine Learning & Deep Learning | Data Structures & Algorithms | Databases | Bi
 ## 🏆 Awards & Certifications  
 
 🏆 **IBM Software Developer Certification** - Coursera _(In progress)_  
+🥇 **Top 500 out of 50,000** - Data Science Hackathon, IIT Kharagpur  
 🏅 **Machine Learning Certification** - Cognifyz Technologies _(March 2024)_  
-🏆 **Certificate of Excellence** - Quality Circle Competition _(ICSQCC, New Delhi 2016)_  
+🏆 **Hackerrank 5-Star Gold** - Python Programming  
+🎖️ **Certificate of Excellence** - Quality Circle Competition _(ICSQCC, New Delhi 2016)_  
 
 ---
+
+## 📄 Publication  
+
+**"Real-Time Fish Detection and Tracking using Ensemble-based Deep Learning Approach for Aquatic Species Monitoring"**  
+Nishanth R, Sai Sudhindra Sasank V, Sriya Simran Dash, Vinod Kumar Yadav, Senthil Kumar Thangavel, K Somasundaram
+
+---
+```
