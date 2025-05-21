@@ -1,8 +1,3 @@
----
-layout: default
-title: nishanth resume
----
-
 <div align="center">
 
   <h3>🚀 Data Science | Machine Learning | Full-Stack Development</h3>  
