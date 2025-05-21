@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
   <h3>🚀 Data Science | Machine Learning | Full-Stack Development</h3>  
@@ -128,4 +127,3 @@ Computer Vision | Statistics | Reinforcement Learning | Data Structures & Algori
 Nishanth R, Sai Sudhindra Sasank V, Sriya Simran Dash, Vinod Kumar Yadav, Senthil Kumar Thangavel, K Somasundaram
 
 ---
-```
